@@ -1,0 +1,12 @@
+{
+  "name": "render-worker",
+  "version": "1.0.0",
+  "description": "API rate limit bypass worker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
